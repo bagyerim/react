@@ -31,7 +31,6 @@ reviwer: 예은님
         onChange={(event) => setBody(event.target.value)}
       ></textarea></p>
       <p><button type="submit">Create</button></p>
-      로 수정함.
       
 ### 2. index.js
 src파일에 components 파일을 추가하여 Header.js, Article.js 등을 추가하였는데, 이때 추가한 index.js 파일은 없어도 react앱을 주석처리해도 잘 돌아가는 것을 확인.
