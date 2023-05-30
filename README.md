@@ -18,7 +18,7 @@ reviwer: 예은님
       ></textarea>
       <button type="submit">Create</button>
   
-  이 코드를 <p>로 묶어줌으로 해결.
+  이 코드를 <p></로 묶어줌으로 해결.
        <p><input
         type="text"
         placeholder="Title"
