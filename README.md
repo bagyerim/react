@@ -3,7 +3,8 @@
 reviwer: 예은님
 
 ### 1. Creat.js
-     html,css,js를 클릭하면 title,body,button이 그냥 한 줄로 생김. 
+     html,css,js를 클릭하면 title,body,button이 그냥 한 줄로 생기는 일이 발생함.
+     
      <input
         type="text"
         placeholder="Title"
